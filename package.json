@@ -1,0 +1,28 @@
+{
+  "name": "dodgyhelper",
+  "version": "0.1.1",
+  "description": "Your average discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalAlip/DodgyHelper.git"
+  },
+  "keywords": [
+    "DiscordJS"
+  ],
+  "author": "Revv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalAlip/DodgyHelper/issues"
+  },
+  "homepage": "https://github.com/PalAlip/DodgyHelper#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
